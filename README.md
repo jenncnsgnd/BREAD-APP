@@ -1,9 +1,9 @@
 # BREAD-APP
 BREAD APP PROJECT - SIR VILLARAN
-GROUP MEMEBRS
+GROUP MEMBERS
 Consignado, Jennifer B. -LEADER
-Sacdalan, Kim Cailee J.
 Cube, Jaira Maurrice B.
+Sacdalan, Kim Cailee J.
 Tobias, Apple C.
 Capili, Annalyn D.
 Ablir, Via M.
